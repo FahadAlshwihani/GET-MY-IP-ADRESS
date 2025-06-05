@@ -25,6 +25,7 @@ https://getmyipadress.netlify.app/
 - [IP Geolocation API](https://ipapi.co/, https://ipify.org/) - For fetching IP and location data  
 - [Mapbox](https://www.mapbox.com/) - For rendering interactive maps  
 - [Axios](https://axios-http.com/) - For making HTTP requests
+<<<<<<< HEAD
 
 ## 📫 Connect with Me
 
@@ -39,3 +40,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/FahadAlshwihani/GET-MY-IP-ADRESS.git
 cd GET-MY-IP-ADRESS
+=======
+>>>>>>> 9381deaacd5c55465b666a7ac93c84e0844134ad
