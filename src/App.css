@@ -1,3 +1,9 @@
+.a-nav{
+  color: beige;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .App {
   text-align: center;
 }
@@ -5,6 +11,10 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.navbar{
+  background-color: rgb(25, 35, 10);
 }
 
 @media (prefers-reduced-motion: no-preference) {
