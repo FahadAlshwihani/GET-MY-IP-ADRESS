@@ -1,103 +1,41 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
 # 🌐 Get My IP Address
 
 A simple and user-friendly website built with **React.js** to display your **IP address**, related **information** (like ISP, city, country), and your **location on a map**.
 
 ## 🔧 Features
 
-- ✅ Real-time IP address detection
-- 📍 Displays ISP, city, country, and timezone
-- 🗺️ Map showing your exact location based on your IP
-- ⚡ Fast and responsive UI using React
+- ✅ Real-time IP address detection  
+- 📍 Displays ISP, city, country, and timezone  
+- 🗺️ Map showing your exact location based on your IP  
+- ⚡ Fast and responsive UI using React  
 
 ## 📷 Screenshots
 
-> ## 📷 Screenshots
-
-![Homepage Screenshot](./screenshots/homepage.png)
-![Aboutuspage Screenshot](./screenshots/Aboutuspage.png)
-![Supportpage Screenshot](./screenshots/supportpage.png)
-
+![Homepage Screenshot](./screenshots/homepage.png)  
+![About Us Page Screenshot](./screenshots/Aboutuspage.png)  
+![Support Page Screenshot](./screenshots/supportpage.png)  
 
 ## 🚀 Live Demo
 
-> https://getmyipadress.netlify.app/
+https://getmyipadress.netlify.app/
 
 ## 🛠️ Built With
 
-- [React.js](https://reactjs.org/) - JavaScript library for building user interfaces
-- [IP Geolocation API](https://ipapi.co/, https://ipify.org/, etc.) - For fetching IP and location data
-- [Mapbox](https://www.mapbox.com/) - For rendering interactive maps
+- [React.js](https://reactjs.org/) - JavaScript library for building user interfaces  
+- [IP Geolocation API](https://ipapi.co/, https://ipify.org/) - For fetching IP and location data  
+- [Mapbox](https://www.mapbox.com/) - For rendering interactive maps  
 - [Axios](https://axios-http.com/) - For making HTTP requests
->>>>>>> 0eb502ed10f2c6aeb4a093e5f801e296874f7725
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ENG.Fahad-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fahad-alshwihani)  
+[![GitHub](https://img.shields.io/badge/GitHub-ENG.Fahad-black?logo=github&style=for-the-badge)](https://github.com/FahadAlshwihani)
+
+
+## 📁 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/FahadAlshwihani/GET-MY-IP-ADRESS.git
+cd GET-MY-IP-ADRESS
