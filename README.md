@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 🌐 Get My IP Address
+
+A simple and user-friendly website built with **React.js** to display your **IP address**, related **information** (like ISP, city, country), and your **location on a map**.
+
+## 🔧 Features
+
+- ✅ Real-time IP address detection
+- 📍 Displays ISP, city, country, and timezone
+- 🗺️ Map showing your exact location based on your IP
+- ⚡ Fast and responsive UI using React
+
+## 📷 Screenshots
+
+> ## 📷 Screenshots
+
+![Homepage Screenshot](./screenshots/homepage.png)
+![Aboutuspage Screenshot](./screenshots/Aboutuspage.png)
+![Supportpage Screenshot](./screenshots/supportpage.png)
+
+
+## 🚀 Live Demo
+
+> https://getmyipadress.netlify.app/
+
+## 🛠️ Built With
+
+- [React.js](https://reactjs.org/) - JavaScript library for building user interfaces
+- [IP Geolocation API](https://ipapi.co/, https://ipify.org/, etc.) - For fetching IP and location data
+- [Mapbox](https://www.mapbox.com/) - For rendering interactive maps
+- [Axios](https://axios-http.com/) - For making HTTP requests
+>>>>>>> 0eb502ed10f2c6aeb4a093e5f801e296874f7725
