@@ -11,11 +11,16 @@ A simple and user-friendly website built with **React.js** to display your **IP 
 
 ## 📷 Screenshots
 
-> ![Alt Text](C:\Users\ALOSTATH\Pictures\GETMYIPADRESS website)
+> ## 📷 Screenshots
+
+![Homepage Screenshot](./screenshots/homepage.png)
+![Aboutuspage Screenshot](./screenshots/Aboutuspage.png)
+![Supportpage Screenshot](./screenshots/supportpage.png)
+
 
 ## 🚀 Live Demo
 
-> [Insert Live URL if deployed, e.g., on Vercel or Netlify]
+> https://getmyipadress.netlify.app/
 
 ## 🛠️ Built With
 
