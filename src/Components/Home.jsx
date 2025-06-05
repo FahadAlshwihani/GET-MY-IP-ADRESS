@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Header from '../Layout/Header'; // Import Header component
+import Header from '../Layout/Header' ; // Import Header component
 import FindMyip from '../Components/FindMyip'; // Adjust path if necessary
 import IpLocation from '../Components/IpLocation'; // Corrected casing
-import Footer from '../Layout/Footer'; // Import Footer component
+import Footer from '../Layout/Footer' ; // Import Footer component
 
 const Home = () => {
     const containerStyle = {
@@ -13,7 +13,6 @@ const Home = () => {
         accentColor: '#FF00FF', // Magenta
         secondaryAccentColor: '#00FFFF', // Aqua
     };
-
     const scrollToTop = () => {
         window.scrollTo({
             top: 0,
@@ -29,7 +28,7 @@ const Home = () => {
                 </header>
 
                 <main>
-                    <div>
+                   <div>
                         <FindMyip />
                         <IpLocation />
                         <div className="row mt-2 d-flex justify-content-center">
@@ -67,9 +66,9 @@ const Home = () => {
                 </main>
 
                 <footer>
-                    <div className="d-flex justify-content-center mt-2">
-                        <small><button className="btn btn-primary back-to-top" onClick={scrollToTop}>Back to Top</button></small>
-                    </div>
+                     <div className="d-flex justify-content-center mt-2">
+                    <small><button className="btn btn-primary back-to-top" onClick={scrollToTop}>Back to Top</button></small>
+                </div>
                     <Footer />
                 </footer>
             </div>
